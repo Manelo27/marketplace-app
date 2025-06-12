@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'Running simulated gradlew for GitHub Actions'
+./gradle/wrapper/gradle-8.2/bin/gradle "$@"
